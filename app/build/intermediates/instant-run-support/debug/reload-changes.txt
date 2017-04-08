@@ -1,0 +1,3 @@
+CHANGED,/var/www/Theintent/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/theintent/MainActivity$1$override.class
+CHANGED,/var/www/Theintent/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/theintent/MainActivity$override.class
+CHANGED,/var/www/Theintent/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
